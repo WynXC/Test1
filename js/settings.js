@@ -12,7 +12,7 @@ const collectionInfo = {
     },
     background: {
         type: "video",
-        image: "bg.jpg",
+        image: "",
         video: "1.mp4",
         color: "#4E4E6D",
     }
